@@ -4,4 +4,4 @@
 Interfaces e Bibliotecas. 
 
 ## Objetivo:
-Aplicar e revisar meus conhecimentos de programação em C# para dar início aos sistemas de estudo que vou produzir com a intenção de revisar conteúdos mais complexos.
+Aplicar conhecimentos básicos de C# para dar início aos estudo onde vou revisar conteúdos mais complexos.
